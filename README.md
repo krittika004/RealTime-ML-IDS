@@ -28,8 +28,8 @@
 ```plaintext
 RealTime-ML-IDS/
 │
-├── data/                   # Merged and preprocessed dataset
-├── models/                 # Trained models (RandomForest, XGBoost, Hypergraph Ensemble)
+├── data/                  # Merged and preprocessed dataset
+├── models/                # Trained models (RandomForest, XGBoost, Hypergraph Ensemble)
 ├── matlab_sim/            # MATLAB scripts for cloudlet simulation
 ├── notebooks/             # Jupyter notebooks for training and evaluation
 ├── results/               # Summary reports, plots, and metrics
